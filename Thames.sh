@@ -1,0 +1,8 @@
+pkg install git
+pkg install bash 
+git clone https://github.com/Cabbagec/termux-ohmyzsh
+cd termux-ohmyzsh
+bash install.sh
+0
+12
+exit 
